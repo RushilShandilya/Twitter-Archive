@@ -1,2 +1,2 @@
 # Twitter-Archive
-For archiving and storing Twitter Threads
+For archiving and storing Twitter Threads belonging to Indic Wing
